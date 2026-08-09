@@ -75,8 +75,8 @@ No external Python packages are required.
 ```text
 Port-Scanner-Python/
 │
-├── port_scanner.py
 ├── README.md
+├── port_scanner.py
 └── requirements.txt
 ```
 
@@ -129,7 +129,7 @@ python3 --version
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Port-Scanner-Python.git
+git clone https://github.com/ak123452004/Port-Scanner-Python.git
 ```
 
 ### 3. Open the Project Directory
